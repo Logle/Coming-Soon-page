@@ -9,7 +9,7 @@
 	<div class="soon">
 		<h1>Coming Soon</h1>
 		<p>
-			LGList is a product of <a href="http://www.lapnghiep.co"> Lap Nghiep </a>
+			TOMOAPP - Share the knowledge, build the future !
 		</p>
 		<div class="count">
 		    <h1 id="countdown" class="clock"></h1>
